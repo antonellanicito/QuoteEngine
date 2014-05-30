@@ -1,0 +1,10 @@
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngineApp\bin\Debug\QuoteEngineApp.exe
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngineApp\bin\Debug\QuoteEngineApp.pdb
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngineApp\bin\Debug\QuoteEngine.dll
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngineApp\bin\Debug\QuoteEngine.pdb
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngineApp\obj\x86\Debug\QuoteEngineApp.csprojResolveAssemblyReference.cache
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngineApp\obj\x86\Debug\QuoteEngineApp.InfoTravel.resources
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngineApp\obj\x86\Debug\QuoteEngineApp.Properties.Resources.resources
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngineApp\obj\x86\Debug\QuoteEngineApp.csproj.GenerateResource.Cache
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngineApp\obj\x86\Debug\QuoteEngineApp.exe
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngineApp\obj\x86\Debug\QuoteEngineApp.pdb

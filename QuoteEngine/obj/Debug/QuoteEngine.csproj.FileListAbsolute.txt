@@ -1,0 +1,4 @@
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngine\bin\Debug\QuoteEngine.dll
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngine\bin\Debug\QuoteEngine.pdb
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngine\obj\Debug\QuoteEngine.dll
+D:\Progetti\Private\QuoteEngine\QuoteEngine\QuoteEngine\obj\Debug\QuoteEngine.pdb
